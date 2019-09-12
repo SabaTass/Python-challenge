@@ -1,6 +1,6 @@
 import os
 import csv
-csvpath = os.path.join('..', 'Bootcamp', 'election_data.csv')
+csvpath = os.path.join('..', 'Resources', 'election_data.csv')
 total_votes = 0
 candidates = []  #catch all candidates name in it as list
 votes = []        #catch all votes as list
