@@ -1,6 +1,6 @@
 import os
 import csv
-csvpath = os.path.join('..', 'budget_data.csv')
+csvpath = os.path.join('..', 'Resources', 'budget_data.csv')
 months = 0
 total = 0
 avg_stack = []
